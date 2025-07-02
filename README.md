@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Tarık.<br>I am a software engineering student and I am interested in frontend and backend development.
 
 
@@ -12,5 +12,7 @@ Hi, I'm Tarık.<br>I am a software engineering student and I am interested in fr
 ![](https://nirzak-streak-stats.vercel.app/?user=tarikozben&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikozben&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=tarikozben&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
